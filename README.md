@@ -91,4 +91,4 @@ Contributions are welcome! Please follow these steps to contribute:
 5. Create a new Pull Request.
 
 ## Contact
-For any questions or inquiries, please contact Ritik Sunil Khapre, emial- ritik.khapre5202@gmail.com.
+For any questions or inquiries, please contact [Ritik Sunil Khapre](mailto:ritik.khapre5202.com).
