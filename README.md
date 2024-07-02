@@ -8,7 +8,8 @@
 5. [Analysis](#analysis)
 6. [Results](#results)
 7. [Contributing](#contributing)
-8. [Contact](#contact)
+8. [License](#License)
+9. [Contact](#contact)
 
 ## Introduction
 This project involves analyzing financial data to understand various factors influencing creditworthiness and default rates. The analysis focuses on credit amounts, incomes, occupations, regional influences, and other key financial attributes to identify patterns and correlations that are crucial for risk management in credit lending.
@@ -89,6 +90,10 @@ Contributions are welcome! Please follow these steps to contribute:
 3. Make your changes and commit them (`git commit -m 'Add your feature'`).
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Create a new Pull Request.
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 For any questions or inquiries, please contact [Ritik Sunil Khapre](mailto:ritik.khapre5202.com).
